@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.circle {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.legend {
+  border:5px solid black;
+  background-color: rgb(141, 122, 194);
+  padding: 15px;
+}
